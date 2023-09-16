@@ -1,5 +1,5 @@
 {
-  "name": "i-phone-13-copy",
+  "name": "iphone-14-product-red",
   "version": "1.0.0",
   "description": "Scene exported with Spline",
   "keywords": [
@@ -16,8 +16,11 @@
   "dependencies": {
     "@splinetool/react-spline": "^2.2.1",
     "@splinetool/runtime": "^0.9.451",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^3.1.0-beta.0",
